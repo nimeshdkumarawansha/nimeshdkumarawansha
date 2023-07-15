@@ -25,7 +25,7 @@
 </a>
 
 <a href="https://www.tiktok.com/@nimeshdilshan027" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/tik-tok.svg" alt="TikTok" height="30" width="40" />
+  <img align="center" src="https://seeklogo.com/images/T/tiktok-share-icon-black-logo-29FFD062A0-seeklogo.com.png" alt="TikTok" height="30" width="40" />
 </a>
 
 <a href="https://github.com/nimeshdkumarawansha" target="_blank">
