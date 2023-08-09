@@ -34,6 +34,7 @@
 
 </p>
 <h3 align="left">Languages and Tools I Use: ✨</h3>
+![Nimesh Dilshan's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nimeshdkumarawansha&layout=compact)
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
