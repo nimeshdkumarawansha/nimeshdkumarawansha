@@ -34,15 +34,6 @@
 
 </p>
 <h3 align="left">Languages and Tools I Use: ✨</h3>
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nimeshdkumarawansha&show_icons=true&locale=en&layout=compact" alt="ndkumarawansha" /></p>
- -->
-<p align="left">
-  <p align="left">
-    <a href="https://github.com/nimeshdkumarawansha/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Dilshan Kumarawnsha's streak" src="https://github-readme-streak-stats.herokuapp.com?username=nimeshdkumarawansha&theme=soft-green"/>
-    </a>
-  </p>
-</p>
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=nimeshdkumarawansha&show_icons=true&theme=gotham" alt="DilshanKumarawansha | Stats" />
