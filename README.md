@@ -2,7 +2,7 @@
 ![MasterHead](https://raw.githubusercontent.com/nimeshdkumarawansha/Dilshan-Kumarawansha/refs/heads/main/DALL%C2%B7E%202025-02-08%2019.32.59%20-%20A%20digital%20illustration%20representing%20Nimesh%20Dilshan's%20life%20as%20a%20Full-Stack%20Developer%20Associate%20Software%20Engineer.%20The%20image%20showcases%20a%20workspace%20with%20.webp)
 
 <h1 align="center">Hi 👋, I'm Dilshan Kumarawansha</h1>
-<h3 align="center">Associate Software Engineer at CyberElysium</h3>
+<h3 align="center">Associate Software Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg">
 <!--  <img width="55%" align="right" alt="Github" src="" /> -->
 
