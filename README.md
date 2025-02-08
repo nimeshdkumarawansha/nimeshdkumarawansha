@@ -1,5 +1,5 @@
 # Dilshan Kumarawansha
-![MasterHead](https://img.freepik.com/free-vector/programmer-work-with-working-day-symbols-flat-illustration_1284-60322.jpg?w=826&t=st=1689404434~exp=1689405034~hmac=e5a3901daf190904d21571e08baf9d22290edd3603e7453fe1a6f9ba0d31a3ca)
+![MasterHead](https://raw.githubusercontent.com/nimeshdkumarawansha/Dilshan-Kumarawansha/refs/heads/main/DALL%C2%B7E%202025-02-08%2019.32.59%20-%20A%20digital%20illustration%20representing%20Nimesh%20Dilshan's%20life%20as%20a%20Full-Stack%20Developer%20Associate%20Software%20Engineer.%20The%20image%20showcases%20a%20workspace%20with%20.webp)
 
 <h1 align="center">Hi 👋, I'm Dilshan Kumarawansha</h1>
 <h3 align="center">Associate Software Engineer at CyberElysium</h3>
